@@ -1,3 +1,3 @@
 # payment_utility
 This a PHP utility for payment dates 
-To run this utility, use the command : php sales_department_payment_dates_utility.php.
+To Generate CSV File , in the terminal run the following command php sales_department_payment_dates_utility.php
